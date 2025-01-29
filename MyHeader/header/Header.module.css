@@ -1,0 +1,21 @@
+.my-header{
+    display: flex;
+}
+.my-title {
+    background-color: #16404D;
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.my-profile{
+    margin: 10px;
+    border-radius: 10px;
+
+}
+.my-text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
