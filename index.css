@@ -1,0 +1,59 @@
+.counter-container{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.count-display{
+  font-size: 10em;
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+.counter-button{
+  width: 150px;
+  height: 50px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0px 5px;
+  background-color:#B5828C ;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.counter-button:hover{
+  background-color: #E5989B;
+}
+
+.set{
+  display: flex;
+  font-size: 5em;
+  margin-left: 250px;
+}
+.counted-2{
+  margin-left: 60px;
+}
+.counted-3{
+  margin-left: 70px;
+}
+.counted-4{
+  margin-left: 180px;
+}
+.time-container{
+     margin-top: -50px;
+     margin-left: 200px;
+}
+.time-button{
+  font-size: 20px;
+  margin-left: 20px;
+  
+}
+.time{
+    position: relative;
+    top: 40px;
+    display: inline;
+    font-size: 20px;
+    right: 100px;
+
+    
+}
