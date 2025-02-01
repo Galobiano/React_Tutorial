@@ -80,6 +80,8 @@ export default function MyComponent(){
              onChange={handleModelChange}  placeholder='Enter the iphone model'/> <br />
            
            <button onClick={handleAddIphone}> Add Iphone</button>
+
+           <h1>Hello World</h1>
          </div>
     );
 
