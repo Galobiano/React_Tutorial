@@ -1,0 +1,31 @@
+body{
+    background-color: #F5EFFF ;
+    margin: 0;
+
+    /* OPTINAL TO CENTER THE ITEM */
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+.clock-container{
+    background-color: #A294F9;
+    width: 750px;
+    height: 140px;
+    padding-top: 20px;
+    border: 1px solid #6d4f7a;
+    border-radius: 30px;
+    box-shadow: 7px -2px 5px 0px #77638f,-4px 8px 5px 0px #77638f;
+
+  
+}
+.clock{
+    color: #eae1f7;
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: monospace;
+    text-shadow: 3px 4px 8px #746c94 ;
+    text-align: center;
+
+}
+
