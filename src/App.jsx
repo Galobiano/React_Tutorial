@@ -1,10 +1,10 @@
-import TodoList from "./ToDoList";
+
 
 function App() {
 
             return(
               <>
-                <TodoList/>
+               
                 </>
             );   
 
