@@ -1,9 +1,10 @@
-import MyComponent from './MyComponent.jsx'
+ import MyComponent from './MyComponent.jsx'
 
 function App() {
 
             return(
               <>
+               
                <MyComponent/>
                 </>
             );   
@@ -26,7 +27,8 @@ export default App
 
 
 
+// why used useEffect
+// 1. to keep you code oraganize
 
-
-
-
+// useEffect is like an "automatic updater."
+// useEffect is a React hook that runs side effects in a functional component. 
