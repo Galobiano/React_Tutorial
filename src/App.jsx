@@ -1,11 +1,11 @@
-import ComponentA  from "./ComponentA";
+import Dgital from './Digital'
 
 function App() {
 
             return(
               <>
-               <ComponentA/>
-               
+                <Dgital/>
+                  
                 </>
             );   
 
@@ -13,6 +13,4 @@ function App() {
 }
 
 export default App
-// UseContext() = React hook that allows you to share value 
-//              between multiple level of component
-//              without passing props through each level
+
