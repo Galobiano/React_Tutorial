@@ -1,10 +1,10 @@
-import Dgital from './Digital'
+import StopWatch from './StopWatch.jsx'
 
 function App() {
 
             return(
               <>
-                <Dgital/>
+                 <StopWatch/>
                   
                 </>
             );   
